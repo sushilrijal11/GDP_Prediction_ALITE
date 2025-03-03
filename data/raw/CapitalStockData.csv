@@ -1,4 +1,4 @@
-﻿isocode,ifscode,country,year,igov_rppp,kgov_rppp,ipriv_rppp,kpriv_rppp,ippp_rppp,kppp_rppp,GDP_rppp,igov_n,kgov_n,ipriv_n,kpriv_n,kppp_n,GDP_n,income
+﻿countrycode,ifscode,country,year,igov_rppp,kgov_rppp,ipriv_rppp,kpriv_rppp,ippp_rppp,kppp_rppp,GDP_rppp,igov_n,kgov_n,ipriv_n,kpriv_n,kppp_n,GDP_n,income
 AFG,512,Afghanistan,1960,3,50,1,15,,,,,,,,,,Low Income Developing Countries
 AFG,512,Afghanistan,1961,3,52,1,15,,,,,,,,,,Low Income Developing Countries
 AFG,512,Afghanistan,1962,4,54,1,16,,,,,,,,,,Low Income Developing Countries
@@ -11338,7 +11338,7 @@ VEN,299,Venezuela,2015,4,85,3,55,0,0,18,1406,31403,974,20401,23,6025,Emerging Ma
 VEN,299,Venezuela,2016,2,86,1,55,0,0,15,2832,116337,1963,74364,80,21059,Emerging Market Economies
 VEN,299,Venezuela,2017,1,85,1,53,0,0,13,24726,1834930,17140,1152762,1233,150607,Emerging Market Economies
 VEN,299,Venezuela,2018,1,83,0,51,0,0,10,18927960,1130322688,2271535,697360320,749183,79260048,Emerging Market Economies
-VEN,299,Venezuela,2019,1,81,0,48,0,0,7,2461376000,224164102144,324779680,133776285696,146085600,10306909184,Emerging Market Economies
+VEN,299,Venezuela,2019,1,81,0,48,0,0,7,2461376000,2.24E+11,324779680,1.34E+11,146085600,10306909184,Emerging Market Economies
 VNM,582,Vietnam,1960,0,4,1,15,,,,,,,,,,Low Income Developing Countries
 VNM,582,Vietnam,1961,0,5,1,15,,,,,,,,,,Low Income Developing Countries
 VNM,582,Vietnam,1962,0,5,1,16,,,,,,,,,,Low Income Developing Countries
