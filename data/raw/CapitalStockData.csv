@@ -1,4 +1,4 @@
-﻿countrycode,ifscode,country,year,igov_rppp,kgov_rppp,ipriv_rppp,kpriv_rppp,ippp_rppp,kppp_rppp,GDP_rppp,igov_n,kgov_n,ipriv_n,kpriv_n,kppp_n,GDP_n,income
+﻿countrycode,ifscode,countryname,year,igov_rppp,kgov_rppp,ipriv_rppp,kpriv_rppp,ippp_rppp,kppp_rppp,GDP_rppp,igov_n,kgov_n,ipriv_n,kpriv_n,kppp_n,GDP_n,income
 AFG,512,Afghanistan,1960,3,50,1,15,,,,,,,,,,Low Income Developing Countries
 AFG,512,Afghanistan,1961,3,52,1,15,,,,,,,,,,Low Income Developing Countries
 AFG,512,Afghanistan,1962,4,54,1,16,,,,,,,,,,Low Income Developing Countries
